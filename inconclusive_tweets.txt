@@ -1,0 +1,3 @@
+Num of equal references: 2612
+Num of sullivan tweets: 5047
+Num of dragas tweets: 12750
